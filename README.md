@@ -1,4 +1,3 @@
-# WWDC18
 
 [![Harmony Store Gameplay video](https://i.imgur.com/lvYlNF3.jpg)](https://www.youtube.com/watch?v=P17qt8iYJ_4)
 
